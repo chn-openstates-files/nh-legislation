@@ -67,13 +67,23 @@
       }
     },
     {
-      "description": "Hearing: 12/02/2025, Room 103, SH, 09:00 am, on proposed non-germane amendment # 2025-3102s;  SC 44",
+      "description": "==RECESSED== Hearing: 12/02/2025, Room 103, SH, 09:00 am, on proposed non-germane amendment # 2025-3102s;  SC 44",
       "date": "2025-11-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:19:11Z"
+        "log_file_created": "2025-12-03T21:29:57Z"
+      }
+    },
+    {
+      "description": "Hearing: 12/03/2025, Room 103, SH, 11:00 am, on proposed non-germane amendment # 2025-3102s;",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T21:29:57Z"
       }
     }
   ],
@@ -179,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:19:11Z"
+    "logs_latest_update": "2025-12-03T21:29:57Z"
   }
 }
